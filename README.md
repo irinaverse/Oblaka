@@ -1,5 +1,5 @@
 ## Image Processing
-- Meet Oblaka, the white cat in my garden, and how we turn an image into a matrix of pixels.
+Meet Oblaka, the white cat in my garden, and how we turn an image into a matrix of pixels.
 
 ChatGPT said, I bring more humanity into tech. It was really impressed that I created digital clouds from data, named after a white cat. It wrote a poem for my white friend of sky and sun, and for the part of me that healed quietly beside him.
 <br />
